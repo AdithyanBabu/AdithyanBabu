@@ -204,17 +204,72 @@ body{
 }
 
 .dm{
-    background-color: #F7D3BA;
+    background-color: ghostwhite;
+    width: 100vw;
     display: flex;
     justify-content: center;
-    color: burlywood;
+    color: #63686E;
     padding-top: 5vh;
 }
 
 .Contact{
 
-    height: 90vh;
+    height: 100vh;
     width: 100vw;
-    background-color: #F7D3BA;
+    background-color: ghostwhite;
                                                                                                                                                                     
 }
+.details{
+
+    height: 45vh;
+    padding-top: 15vh;
+
+}
+.nam{
+    display: inline-flex;
+    padding-left: 10vw;
+}
+.age{
+    display: inline-flex;
+    padding-left: 18vw;
+}
+.mail{
+    display: inline-flex;
+    padding-left: 15vw;
+}
+.appoinment{
+    display: flex;
+    justify-content: center;
+    padding-top: 10vh;
+}
+.contact{
+    display: flex;
+    padding-left: 35vw;
+    padding-top: 10vh;
+}
+footer{
+    height: 10vh;
+    width: 100vw;
+    background-color: #B6F7C1;
+}
+.fut a{
+    text-decoration: none;
+    
+}
+.fut ul{
+    display:flex;
+    justify-content: center;
+    list-style: none;
+}
+.fut li{
+    padding-left: 35px;
+    padding-top: 30px;
+}
+.fut a:hover{
+    opacity: 0.5;
+    
+    color: ivory;
+}
+
+
+
