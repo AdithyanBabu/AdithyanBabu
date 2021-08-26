@@ -166,7 +166,9 @@ body{
     opacity: 0.8;
 
 }
-
+#jp{
+    padding-left: 9px;
+}
 .card2{
     height: 33vh;
     width: 25vw;
@@ -202,7 +204,9 @@ body{
     opacity: 0.8;
 
 }
-
+#ca{
+    padding-left: 5px;
+}
 .dm{
     background-color: ghostwhite;
     width: 100vw;
@@ -248,7 +252,7 @@ body{
     padding-top: 10vh;
 }
 footer{
-    height: 10vh;
+    height: 11vh;
     width: 100vw;
     background-color: #B6F7C1;
 }
@@ -270,6 +274,5 @@ footer{
     
     color: ivory;
 }
-
 
 
